@@ -1,6 +1,6 @@
 # ReactiveCalculator
 This app shows the creation of simple calculator according to reactive principles
-using [React] [Redux] and [babeljs], as well as project structure.
+using [React] ,[Redux] and [babeljs], as well as project structure.
 
 Requirements:
 - git
